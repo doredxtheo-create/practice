@@ -1,19 +1,13 @@
 print("This Is My First Python Project Submitted To Codingal.com")
-print(" ")
-print("This is my daily routine.")
-print(" ")
-print("I wake up at 6:30 AM.")
-print(" ")
-print("I go to school at 7:00 AM.")
-print(" ")
-print("I play with my friends at 6:00 PM.")
-print(" ")
-print("I study for 2 and a half hours at night.")
-print(" ")
-print("I go to bed at 10:30 PM.")
-print(" ")
-print("And That's my daily routine.")
-print(" ")
-print("My Total Hours of Study Per Week:", 2.5 * 7,"Hours")
-print(" ")
+
+print("I wake up at 7 AM.")
+
+print("I go to school at 8 AM.")
+
+print("I play with my friends in the evening.")
+
+print("I study for 2 hours at night.")
+
+print("Total study hours in a week:", 2 * 7)
+
 exit(0)
