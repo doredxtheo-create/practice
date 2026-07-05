@@ -11,3 +11,5 @@ print("I study for 2 hours at night.")
 print("Total study hours in a week:", 2 * 7)
 
 exit(0)
+
+
