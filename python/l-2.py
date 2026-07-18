@@ -62,5 +62,7 @@ z = "Opposition"
 
 print("This Is called", z)
 
-
+s = 'foo'
+t = 'bar'
+print(2 *(s + t))
 
