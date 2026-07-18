@@ -58,4 +58,9 @@ age = 12
 student_name = "Ahmed"
 print("\n The Name Of The Student Is:", student_name, "\n The Age Of The Student Is:", age)
 
+z = "Opposition"
+
+print("This Is called", z)
+
+
 
