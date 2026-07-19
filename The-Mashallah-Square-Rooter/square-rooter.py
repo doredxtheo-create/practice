@@ -13,4 +13,5 @@ x = math.sqrt(input_for_square)
 print(x)
 
 print("CHECKMATE")
+
 exit(0)
