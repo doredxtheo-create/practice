@@ -40,11 +40,15 @@ total = (math+hindi+english)
 
 percentage = ( total / 300 ) * 100
 
-print(total)
+print("The Total Marks Are: ",total)
 
-print(percentage)
+print("The Percebtage Of The STident Are: ",percentage)
 
 avrage = ( total / 3 )
 
 print(avrage)
 
+if avrage == total:
+    print("True")
+else:
+    print("False")
