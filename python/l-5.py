@@ -63,3 +63,7 @@ else:
     profit = ask_sp - ask_cp
     print("Im Happy That You Did Something Correct For Once. You Gained A profit of: ",profit)
 
+
+spam = 5
+if spam > 5:
+    print("five")
