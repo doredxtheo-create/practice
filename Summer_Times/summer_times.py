@@ -17,3 +17,4 @@ else:
     outfit = "heavy jacket"
 
 print("Recommended outfit:", outfit)
+
