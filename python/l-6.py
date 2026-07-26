@@ -35,3 +35,14 @@ if a == b:
 
 if not( a == b ):
     print("True")
+
+# if not ((a==1)==(b==5)):
+#     print("hhello")
+
+
+
+if not((a == 1) == (b == 5)):
+    print(True)
+else:
+     print(False)
+    
