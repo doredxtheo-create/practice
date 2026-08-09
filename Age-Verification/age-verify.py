@@ -10,5 +10,4 @@ else:
     print("You are not enrolled as your age is less than 10.")
 
 
-print("CHECKMATE")
-
+print("CHECKMATE") 
