@@ -16,7 +16,7 @@ i_input = int(input("Enter The Amount Of Rows That You Require: "))
 
 # Instead of Stars We Use Numbers
 
-for i in range(i_input):
-    for j in range(i+1):
-        print(j+1, end=" ")
-    print()
+# for i in range(i_input):
+#     for j in range(i+1):
+#         print(j+1, end=" ")
+#     print()
