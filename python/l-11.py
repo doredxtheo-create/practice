@@ -20,3 +20,9 @@ i_input = int(input("Enter The Amount Of Rows That You Require: "))
 #     for j in range(i+1):
 #         print(j+1, end=" ")
 #     print()
+
+# ****
+# ****
+                # This is what we need to make
+#  **
+#  *
