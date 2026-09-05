@@ -15,6 +15,3 @@ for i in range(num_sides):
     t.right(angle)
 
 t.done()
-
-
-
