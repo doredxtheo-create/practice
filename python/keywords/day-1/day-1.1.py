@@ -99,17 +99,29 @@
 
 # Assignment 5:
 
-for x in range(10):
-    if x % 20 == 0:
-        print("twist")
-    elif x % 15 == 0:
-        pass
-    elif x % 5 == 0:
-        print("fizz")
-    elif x % 3 == 0:
-        print("buzz")
-    else:
-        print(x)
+# for x in range(10):
+#     if x % 20 == 0:
+#         print("twist")
+#     elif x % 15 == 0:
+#         pass
+#     elif x % 5 == 0:
+#         print("fizz")
+#     elif x % 3 == 0:
+#         print("buzz")
+#     else:
+#         print(x)
+
+
+# Assignment 6:
+
+var = 10
+while var > 0:
+    var -= 1
+    if var == 5:
+        continue
+    print("\n", var)
+print("\nGood bye!  😎 ")
+
 
 
 
