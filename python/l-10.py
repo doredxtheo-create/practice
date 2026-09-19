@@ -15,4 +15,3 @@ while i < len(string_input):
 print(f"The character '{character}' appears {count} times in the word '{string_input}'.")
 
 
-
