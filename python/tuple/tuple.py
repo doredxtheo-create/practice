@@ -24,3 +24,19 @@ print(tuple_x.count(4))
 _slice = tuple_x[2:4]
 print(_slice)
 
+# Assignment 1:
+tuple_y = ("Jihaan Khanchandani",12,"Ajmer","Rajasthan","doredxtheo@gmail.com")
+
+name,age,city,state,email = tuple_y
+print(name,age,city,state,email)
+
+matrix = (
+    (1,2),
+    (3,4),
+    (5,6)
+)
+
+print(matrix[2][1])
+
+matrix = matrix[::-1]
+print(matrix)
